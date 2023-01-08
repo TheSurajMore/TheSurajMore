@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj More</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurajmore" alt="thesurajmore" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesurajmore&label=Profile%20views&color=0e75b6&style=flat" alt="thesurajmore" /> </p>
+
+- 🌱 I’m currently learning **MERN Technology.**
 
 - 📫 How to reach me **surajmbusiness@gmail.com**
 
@@ -18,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesurajmore&show_icons=true&locale=en" alt="thesurajmore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurajmore&" alt="thesurajmore" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurajmore" alt="thesurajmore" /></a> </p>
