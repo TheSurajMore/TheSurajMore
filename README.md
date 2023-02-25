@@ -25,7 +25,7 @@
 
 <hr>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesurajmore&show_icons=true&locale=en&layout=compact" alt="thesurajmore" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesurajmore&show_icons=true&locale=en&layout=compact" alt="thesurajmore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesurajmore&show_icons=true&locale=en" alt="thesurajmore" /></p>
 
