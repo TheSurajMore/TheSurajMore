@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect Me:- </h3>
 <p align="left">
        <a href="mailto:surajmbusiness@gmail.com" target="_blank" rel="noreferrer">surajmbusiness@gmail.com</a> 
   <p/>
@@ -25,6 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesurajmore&show_icons=true&locale=en&layout=compact" alt="thesurajmore"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesurajmore&show_icons=true&locale=en" alt="thesurajmore" /></p>
+
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurajmore&" alt="thesurajmore" /></p>
 
