@@ -33,3 +33,7 @@
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurajmore" alt="thesurajmore" /></a> </p>
+
+<hr>
+
+<h1 align="center">There are 13 total repositories, of which 11 are private.</h1>
