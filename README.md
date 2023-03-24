@@ -36,4 +36,4 @@
 
 <hr>
 
-<h1 align="center">There are 14 total repositories, of which 11 are private.</h1>
+<h1 align="center">The following 3 repositories are public and all others are private.</h1>
