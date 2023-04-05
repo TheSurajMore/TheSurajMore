@@ -23,13 +23,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesurajmore&" alt="thesurajmore" /></p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesurajmore&show_icons=true&locale=en&layout=compact" alt="thesurajmore"/></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesurajmore&show_icons=true&locale=en" alt="thesurajmore" /></p>
-
 <hr>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesurajmore" alt="thesurajmore" /></a> </p>
-
 <hr>
-
 <h1 align="center">The following 3 repositories are public and all others are private.</h1>
